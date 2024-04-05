@@ -3,6 +3,7 @@
   "module": "index.js",
   "type": "module",
   "scripts": {
+    "chromium": "bun chromium.js",
     "firefox": "bun firefox.js",
     "dev": "bun --hot index.js",
     ".": "bun index.js"
