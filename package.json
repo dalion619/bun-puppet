@@ -3,6 +3,7 @@
   "module": "index.js",
   "type": "module",
   "scripts": {
+    "firefox": "bun firefox.js",
     "dev": "bun --hot index.js",
     ".": "bun index.js"
   },
